@@ -11,7 +11,7 @@ Hi, I'm Paula! 🐇<br><br>🧠 Software Engineer student at Politécnico Granco
 ![Stars](https://img.shields.io/github/stars/mapuinblue?style=social)
 
 ## 🏆 Top Languajes
-<img src="https://gitstrength.netlify.app/api/card?username=mapuinblue" alt="GitHub Streak Card" width="100%" />
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mapuinblue&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mapuinblue&icon=0&color=0)](https://visitcount.itsvg.in)
