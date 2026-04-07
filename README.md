@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Paula! 🐇<br><br>🧠 Software Engineer student at Politécnico Grancolombiano.<br>🔬 Applied sciences and Biotechnology background.<br>👩‍💻 In love with data and statistics.<br>✨ Making games, cute desktop apps and websites to stay consistent.<br>Currently working on Alzheimer's early prediction Jupyter Notebook.
+Hi, I'm Paula! 🐇<br><br>🧠 Software Engineer student at Politécnico Grancolombiano.<br>🔬 Applied sciences and Biotechnology background.<br>👩‍💻 In love with data and statistics.<br>✨ Making games, cute desktop apps and websites to stay consistent.<br>Currently working on Alzheimer's early prediction Jupyter Notebook and mobile games development.
 
 
 ## 🌐 Socials:
