@@ -3,23 +3,22 @@ Hi, I'm Paula! 🐇<br><br>🧠 Software Engineer passionate about building reli
 
 Currently working as an Enterprise Developer with HOST/COBOL, ASO and APX while pursuing a Master's degree focused on Artificial Intelligence.
 
-## 🔍 Current interests
-<br>🔬 Enterprise Software Engineering.<br>👩‍💻 Artificial Intelligence.<br>Machine Learning<br>Data Science.<br>Backend Development.<br>Software Architecture.<br>✨ Making games, cute desktop apps and websites to stay consistent.
+### 🔍 Current interests
+<br> Enterprise Software Engineering.<br>Artificial Intelligence.<br>Machine Learning<br>Data Science.<br>Backend Development.<br>Software Architecture.<br>✨ Making games, cute desktop apps and websites to stay consistent.
 
-##🚀 What you'll find here
-Personal learning projects
-Data Science notebooks
-AI experiments
-Desktop and mobile applications
-Full-stack development
-University projects
+### 🚀 What you'll find here
+- Personal learning projects
+- Data Science notebooks
+- AI experiments
+- Desktop and mobile applications
+- Full-stack development
+- University projects
 
-🌱 Currently learning
-Large Language Models
-MLOps
-Cloud Architecture
-Distributed Systems
-
+### 🌱 Currently learning
+- Large Language Models
+- MLOps
+- Cloud Architecture
+- Distributed Systems
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poetaudaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://co.linkedin.com/in/paula-guti%C3%A948) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/MapuInBlue) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@poetaudaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mapublume@gmail.com) 
