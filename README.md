@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi, I'm Paula! 🐇<br><br>🧠 Software Engineer student at Politécnico Grancolombiano.<br>🔬 Applied sciences and Biotechnology background.<br>👩‍💻 In love with data and statistics.<br>✨ Making games, cute desktop apps and websites to stay consistent.<br>Currently working on Alzheimer's early prediction Jupyter Notebook and mobile games development.
+Hi, I'm Paula! 🐇<br><br>🧠 Software Engineer passionate about building reliable software, exploring data, and applying AI to solve real-world problems.
+
+Currently working as an Enterprise Developer with HOST/COBOL, ASO and APX while pursuing a Master's degree focused on Artificial Intelligence.
+
+## 🔍 Current interests
+<br>🔬 Enterprise Software Engineering.<br>👩‍💻 Artificial Intelligence.<br>Machine Learning<br>Data Science.<br>Backend Development.<br>Software Architecture.<br>✨ Making games, cute desktop apps and websites to stay consistent.
+
+##🚀 What you'll find here
+Personal learning projects
+Data Science notebooks
+AI experiments
+Desktop and mobile applications
+Full-stack development
+University projects
+
+🌱 Currently learning
+Large Language Models
+MLOps
+Cloud Architecture
+Distributed Systems
 
 
 ## 🌐 Socials:
